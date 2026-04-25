@@ -1,22 +1,56 @@
-# This template CITATION.cff file was generated with cffinit.
-# Visit https://bit.ly/cffinit to replace its contents
-# with information about your lesson.
-# Remember to update this file periodically, 
-# ensuring that the author list and other fields remain accurate.
+# This CITATION.cff file was generated with cffinit.
+# Visit https://bit.ly/cffinit to generate yours today!
 
 cff-version: 1.2.0
-title: FIXME
+title: >-
+  Carpentry Lesson for iHub and Interconnected Science
+  Ecosystem (INTERSECT)
 message: >-
-  Please cite this lesson using the information in this file
-  when you refer to it in publications, and/or if you
-  re-use, adapt, or expand on the content in your own
-  training material.
+  If you use this software, please cite it using the
+  metadata from this file.
 type: dataset
 authors:
-  - given-names: FIXME
-    family-names: FIXME
+  - orcid: 'https://orcid.org/0000-0002-9385-5969'
+    affiliation: Oak Ridge National Laboratory
+    given-names: Shayan
+    family-names: 'Monadjemi '
+    email: monadjemis@ornl.gov
+  - given-names: Phillipe
+    family-names: ' Austria '
+    email: austriaps@ornl.gov
+    affiliation: Oak Ridge National Laboratory
+    orcid: 'https://orcid.org/0000-0002-3622-3973'
+  - given-names: Marshall
+    family-names: McDonnell
+    email: mcdonnellmt@ornl.gov
+    affiliation: Oak Ridge National Laboratory
+    orcid: 'https://orcid.org/0000-0002-3713-2117'
+  - given-names: Lance
+    family-names: Drane
+    affiliation: Oak Ridge National Laboratory
+    orcid: 'https://orcid.org/0000-0001-8808-1228'
+    email: dranelt@ornl.gov
+  - given-names: Kristin
+    family-names: Maroun
+    email: marounkr@ornl.gov
+    affiliation: Oak Ridge National Laboratory
+repository-code: 'https://github.com/INTERSECT-SDK/carpentry-ihub-intersect'
+url: 'https://intersect-sdk.github.io/carpentry-ihub-intersect/'
 abstract: >-
-  FIXME Replace this with a short abstract describing the
-  lesson, e.g. its target audience and main intended
-  learning objectives.
+  A carpentry-style lesson for iHub and Interconnected
+  Science  Ecosystem (INTERSECT). Target audience is learners
+  interested in autonomous scientific experiments
+  and building scientific ecosystems. Learners are introduced to
+  the concepts of automated and autonomous workflows,
+  science ecosystems, and then the implementation of these
+  concepts via iHub and INTERSECT. The Hands-on portion
+  allows learners to explore iHub, understand how it allows
+  one to interact with a science ecosystem to create
+  workflows, and finally how to connect new systems and
+  services.
+keywords:
+  - carpentries
+  - lesson
+  - autonomous-experiments
+  - science-ecosystem
 license: CC-BY-4.0
