@@ -48,8 +48,8 @@ associated with the lessons. They appear in the "Instructor View"
 
 What is the output of this command?
 
-```r
-paste("This", "new", "lesson", "looks", "good")
+```python
+print("This", "new", "lesson", "looks", "good")
 ```
 
 :::::::::::::::::::::::: solution 
